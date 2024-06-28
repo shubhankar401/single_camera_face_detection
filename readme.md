@@ -1,9 +1,11 @@
 
-# Single Camer Face Detection
+# gaze detection
+To create a model that determines and displays the direction each person in a room is looking in and to have a vector emerging from their noses to give a clear indication of their face orientation.
 
-This project is based on yolo3 using that im running face Detection integrated with opencv and python 
+
+
 ## 🔗 Links
-[Download Weights for the model](https://ncair-iitb-internship.s3.ap-south-1.amazonaws.com/yolov3.weights)
+[Download the landmark detection model](https://github.com/GuoQuanhao/68_points/blob/master/shape_predictor_68_face_landmarks.dat)
 ## Support
 
 
